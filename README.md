@@ -251,7 +251,7 @@ Assurez-vous que les éléments suivants sont installés sur votre machine :
    docker-compose up
    et sur navigateur http://localhost:8085
 
-### Video demonstrative
+## Vidéo démonstrative
 Cliquez sur le lien suivant pour visionner la vidéo de démonstration
 
 https://github.com/AchouakBougrine/TelecommSim/blob/main/D%C3%A9monstration%20vid%C3%A9o%20TelecommSim%20(1)%20(1).mp4
