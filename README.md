@@ -254,8 +254,7 @@ Assurez-vous que les éléments suivants sont installés sur votre machine :
 ## Vidéo démonstrative
 Cliquez sur le lien suivant pour visionner la vidéo de démonstration
 
-https://github.com/AchouakBougrine/TelecommSim/blob/main/D%C3%A9monstration%20vid%C3%A9o%20TelecommSim%20(1)%20(1).mp4
-
+[Démonstration vidéo TelecommSim (2).mp4](https://github.com/AchouakBougrine/TelecommSim/blob/main/D%C3%A9monstration%20vid%C3%A9o%20TelecommSim%20(2).mp4)
 
 
 ## Contributeurs :
