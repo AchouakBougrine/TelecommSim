@@ -253,7 +253,9 @@ Assurez-vous que les éléments suivants sont installés sur votre machine :
 
 ## Vidéo démonstrative
 Cliquez sur le lien suivant pour visionner la vidéo de démonstration
-https://github.com/user-attachments/assets/cb362727-3c14-474d-800c-2e324b2f9f78
+
+https://github.com/user-attachments/assets/c920c9a4-93ba-407d-b333-940ab051867f
+
 
 
 ## Contributeurs :
