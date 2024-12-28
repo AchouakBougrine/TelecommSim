@@ -252,12 +252,13 @@ Assurez-vous que les éléments suivants sont installés sur votre machine :
    et sur navigateur http://localhost:8085
 
 ### Video demonstrative
+Cliquez sur le lien suivant pour visionner la vidéo de démonstration
 
-
+https://github.com/AchouakBougrine/TelecommSim/blob/main/D%C3%A9monstration%20vid%C3%A9o%20TelecommSim%20(1)%20(1).mp4
 
 
 
 ## Contributeurs :
 
-- **Aya Hormatallah** 
-- **Achouak Bougrine**
+- **Aya Hormatallah**   (https://github.com/Ayahormatallah/Telecomm-sim)
+- **Achouak Bougrine**  (https://github.com/AchouakBougrine/TelecommSim)
